@@ -91,7 +91,7 @@
                             <property>git.commit.id</property>
                             <propertyOutputSuffix>jitpack</propertyOutputSuffix>
                             <token>^([a-z0-9]{10})([a-z0-9]*)$</token>
-                            <value>$1</value>
+                            <value>-$1-1</value>
                             <regex>true</regex>
 <!--                            <forceValueEvaluation>false</forceValueEvaluation>-->
 <!--                            <transformationRules>-->
