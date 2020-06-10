@@ -134,7 +134,7 @@
                 <executions>
                     <execution>
                         <id>change-version</id>
-                        <phase>validate</phase>
+                        <phase>compile</phase>
                         <goals>
                             <goal>execute</goal>
                         </goals>
